@@ -1,4 +1,4 @@
-# Assignmnet 1 :IU2141220235_Kevin
+# Assignment 1 :IU2141220235_Kevin
 
 Submitting Date: 02/08/2024
 
