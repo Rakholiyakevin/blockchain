@@ -12,7 +12,6 @@ git clone https://github.com/Rakholiyakevin/blockchain.git
 
 Step 2 : run below command in you terminal.
 ```
-cd Blockchain-Assignment-1
 node assignment.js
 ```
 
