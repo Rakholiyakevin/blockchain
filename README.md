@@ -7,7 +7,7 @@ Submitting Date: 02/08/2024
 Step 1 : Clone the repository
 
 ```
-git clone
+git clone https://github.com/Rakholiyakevin/blockchain.git
 ```
 
 Step 2 : run below command in you terminal.
